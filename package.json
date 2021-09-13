@@ -62,7 +62,7 @@
   },
   "description": "Google Meet / Zoom clone in a few lines of code.",
   "main": "app.js",
-  "author": "Aditya Harsh",
+  "author": "Pranjal Gupta",
   "license": "ISC",
   "devDependencies": {}
 }
